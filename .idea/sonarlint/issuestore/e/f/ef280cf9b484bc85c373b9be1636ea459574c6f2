@@ -1,0 +1,19 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ
+o
+java:S1104"TMake deviceId a static final constant or non-public and provide accessors if needed.(Æı¹ƒüÿÿÿÿ
+o
+java:S1104"TMake migrated a static final constant or non-public and provide accessors if needed.(® ëïıÿÿÿÿ
+k
+java:S1104"UMake shortName a static final constant or non-public and provide accessors if needed.(˜Ø
+v
+java:S1104"[Make customerDetails a static final constant or non-public and provide accessors if needed.(áøåæùÿÿÿÿ
+r
+java:S1104"WMake accountList a static final constant or non-public and provide accessors if needed.(€ğ¨»üÿÿÿÿ
+t
+java:S1104"^Make beneficiaryAccount a static final constant or non-public and provide accessors if needed.( †Ê
+s
+java:S1104"]Make legacyServiceList a static final constant or non-public and provide accessors if needed.(ÔÓĞœ
+l
+java:S1104"VMake qrProvider a static final constant or non-public and provide accessors if needed.(¡ıïÜ

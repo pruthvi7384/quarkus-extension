@@ -1,0 +1,5 @@
+mapping\runtime\dto\RequestDto.class
+mapping\runtime\utils\GlobalUtils.class
+mapping\runtime\services\MappingService.class
+mapping\runtime\dto\ResponseDto.class
+mapping\runtime\utils\GlobalConstant.class

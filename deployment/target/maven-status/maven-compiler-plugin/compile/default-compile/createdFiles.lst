@@ -1,0 +1,4 @@
+META-INF\quarkus-build-steps.list
+META-INF\quarkus-javadoc.properties
+mapping\deployment\MappingProcessor.class
+mapping\deployment\MappingProcessor$$accessor.class
